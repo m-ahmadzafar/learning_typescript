@@ -20,3 +20,5 @@ function juttifier(chad3) {
     chad3.chadName = "Jutt";
     return chad3;
 }
+// NOTE: since TS is structural, it can consider
+// two things as the same
